@@ -1,74 +1,86 @@
-# instagram-page-case-study
-Instagram Page Setup Portfolio
-📱 Instagram Page Setup Case Study
+📱 Instagram Page Setup Case Study 
+🧾 Project Overview
 
-**Project Name:** MTL Food Cravings (Instagram Page Setup)
-**Niche:** Food / Restaurant (Montreal, Canada)
-**Platform:** Instagram
+Project Name: MTL Food Cravings – Instagram Page Setup
+Niche: Food / Restaurant (Montreal, Canada)
+Platform: Instagram
 
 🎯 Project Goal
-To create and fully optimize a niche-based Instagram food page that looks professional, attracts engagement, and is ready for business or promotion.
 
-🔧 What I Did
+To design and optimize a professional Instagram food page from scratch that is visually branded, niche-focused, and optimized for engagement, audience growth, and business use.
 
-✅ 1. Username & Branding
+🔧 What I Delivered
+1️⃣ Branding & Identity Setup
+Created a clean and niche-relevant Instagram identity
+Optimized username: mtlfoodcraving
+Designed a professional display name:
+MTL Food Cravings | Montreal Food Guide
 
-* Selected a clean, niche-relevant username: *mtlfoodcraving*
-* Created a brand-focused display name: *MTL Food Cravings | Montreal Food*
+✔ Ensured brand consistency and local targeting (Montreal food audience)
 
-✅ 2. Bio Optimization
+2️⃣ Bio Optimization (Conversion Focused)
+Wrote a clear, engaging, and niche-focused bio
+Added strong call-to-action (CTA) for engagement
+Included location targeting for better audience reach
 
-* Wrote a high-converting bio with clear niche targeting
-* Added call-to-action (CTA) for engagement
-* Included location targeting (Montreal)
+✔ Result: Improved clarity + stronger first impression
 
-✅ 3. Content Strategy
+3️⃣ Content Strategy Development
 
-* Designed a structured **9-post content plan**, including:
+Designed a complete 9-post structured content system, including:
 
-  * Burger post 🍔
-  * Pizza post 🍕
-  * Coffee post ☕
-  * Street food 🍟
-  * Dessert 🍩
-  * Top 3 food spots carousel 📍
-  * Reel content for engagement 🎥
-  * 
-✅ 4. Highlights Setup
+🍔 Burger post (engagement content)
+🍕 Pizza post (high-appeal food content)
+☕ Coffee post (lifestyle content)
+🍟 Street food post (relatable cravings content)
+🍩 Dessert post (viral potential content)
+📍 Top 3 food spots carousel (authority post)
+🎥 Reel strategy for reach & visibility
 
-* Created organized highlights:
+✔ Focused on engagement, variety, and audience retention
 
-  * 🍔 Food
-  * ⭐ Reviews
-  * 📍 Locations
-  * 🔥 Offers
-* Designed consistent highlight covers for a clean look
+4️⃣ Highlights Setup & Organization
 
-✅ 5. Visual Branding
+Created structured Instagram highlights:
 
-* Maintained consistent content style
-* Used high-quality food images
-* Focused on clean and attractive layout
+🍔 Food
+⭐ Reviews
+📍 Locations
+🔥 Offers
 
-✅ 6. Engagement Optimization
+✔ Designed for brand clarity and user trust
+✔ Added consistency in presentation style
 
-* Wrote engaging captions with hooks
-* Used targeted hashtags for reach
-* Added accessibility (alt text) for better optimization
-📊 Result
+5️⃣ Visual Branding Consistency
+Maintained uniform visual identity across posts
+Used high-quality food visuals
+Focused on clean, modern, and attractive layout
 
-✔ Clean and professional Instagram page
-✔ Strong niche branding (food + location-based)
-✔ Ready for audience growth and marketing
-✔ Portfolio-level presentation suitable for clients
+✔ Improved page professionalism and visual appeal
 
-💡 Key Outcome
-This page demonstrates my ability to **build and optimize Instagram pages from scratch**, including branding, content planning, and engagement strategy.
+6️⃣ Engagement & Optimization Strategy
+Created engaging captions with strong hooks
+Used targeted niche hashtags for discoverability
+Implemented accessibility (alt text) for SEO optimization
+
+✔ Improved reach potential and algorithm visibility
+
+📊 Final Outcome
+
+✔ Fully structured Instagram business-style page
+✔ Strong niche branding (Food + Location targeting)
+✔ Content system ready for consistent posting
+✔ Optimized for engagement, reach, and audience growth
+✔ Suitable for business promotion and monetization
+
+💡 Key Result
+
+This project demonstrates my ability to build, design, and optimize Instagram pages from scratch with a strong focus on branding, content strategy, and audience engagement.
 
 📎 Live Preview
 
-Instagram Page: https://www.instagram.com/mtlfoodcraving/
+👉 https://www.instagram.com/mtlfoodcraving/
 
 🚀 Conclusion
 
-I don’t just create social media pages — I build **optimized, branded, and client-ready profiles** that attract engagement and growth.
+I don’t just create social media pages — I build strategic, branded, and conversion-focused Instagram profiles that are ready for real business growth, audience engagement, and marketing use.
