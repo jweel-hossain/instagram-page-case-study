@@ -3,14 +3,14 @@
 
 Service Type: Instagram Page Setup & Optimization
 Niche: Food / Restaurant Branding
-Location Target: Montreal, Canada
+Target Location: Montreal, Canada
 Platform: Instagram
 
 🎯 Service Objective
 
 I provide a complete Instagram page setup service designed to help businesses build a professional, branded, and engaging social media presence that attracts real customers and improves online visibility.
 
-This project demonstrates how I transform a basic Instagram idea into a fully optimized business-ready page.
+This project demonstrates how I transform a basic Instagram idea into a fully optimized, business-ready Instagram page.
 
 🚀 What I Offer (Service Breakdown)
 ✔ 1. Instagram Page Setup
@@ -19,19 +19,19 @@ Brand-focused profile optimization
 Clean and niche-relevant identity creation
 ✔ 2. Bio & Profile Optimization
 High-converting bio writing
-Call-To-Action (CTA) setup
+Call-to-action (CTA) setup
 Location-based targeting strategy
 ✔ 3. Branding & Visual Identity
 Consistent page theme setup
 Food niche branding (colors, style, layout)
-Professional look for business trust
+Professional and trustworthy visual appearance
 ✔ 4. Content Strategy Development
 
-I create a structured content plan including:
+Structured content plan including:
 
 🍔 Burger posts (engagement content)
 🍕 Pizza posts (high-demand content)
-☕ Coffee/lifestyle posts
+☕ Coffee / lifestyle posts
 🍟 Street food content
 🍩 Dessert content
 📍 Top 3 food spots carousel (authority post)
@@ -59,7 +59,7 @@ Reach-focused content structure
 
 💡 What Makes This Service Valuable
 
-I don’t just create Instagram pages — I build fully optimized social media branding systems that help businesses:
+I don’t just create Instagram pages — I build complete social media branding systems that help businesses:
 
 ✔ Attract real customers
 ✔ Build online trust
@@ -69,7 +69,7 @@ I don’t just create Instagram pages — I build fully optimized social media b
 
 📎 Portfolio Preview
 
-👉 Instagram Page: https://www.instagram.com/mtlfoodcraving/
+👉 https://www.instagram.com/mtlfoodcraving/
 
 🚀 Conclusion
 
