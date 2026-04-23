@@ -75,3 +75,18 @@ I don’t just create Instagram pages — I build complete social media branding
 
 I specialize in Instagram Page Setup, Branding & Optimization Services for businesses and startups.
 My goal is to deliver professional, conversion-focused social media profiles that help brands grow and attract real engagement.
+
+💼 My Services
+✔ Instagram Page Setup
+✔ Social Media Optimization
+✔ Data Entry
+✔ Virtual Assistant
+✔ Power BI Data Analysis
+I help businesses build professional and engaging social media presence.
+
+📩 Hire Me
+👉 Fiverr: https://www.fiverr.com/@jweel_dataentry
+👉 Message me for custom work
+
+
+
